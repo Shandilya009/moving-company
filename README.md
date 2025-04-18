@@ -1,2 +1,2 @@
 # moving-company
-website deals with shiftng parcel 
+website deals with shiftng parcel.
